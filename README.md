@@ -16,11 +16,11 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/eduardosouzaprogrammer/">
+  <a href="https://www.linkedin.com/in/eduardosouzaprogrammer/" target="_blank">
     <img alt="Made by Eduardo Souza" src="https://img.shields.io/badge/made%20by-Edu%20Souza-%23F8952D">
   </a>&nbsp;
 
- <a href="https://edusouza-programmer.github.io/">
+ <a href="https://edusouza-programmer.github.io/" target="_blank">
 <img alt="Github page site " src="https://img.shields.io/badge/Github%20page-Site-orange">
 </a>&nbsp;
 
