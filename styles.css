@@ -110,13 +110,14 @@ header {
 
 .skill {
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 
 }
 
 .skill ul {
     margin-top: 10px;
+}
+
+.skill li {
+    text-emphasis: none;
 }
