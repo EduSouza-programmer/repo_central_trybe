@@ -15,27 +15,31 @@
 body {
 
 
-    color: white;
-    background-color: #282a36;
+    color: #f1eeee;
+    /* background-color: #282a36; */
     font-family: 'Source Sans Pro', sans-serif;
+    background-color: #2c2d3b;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%2313141a' stroke-width='66.7' stroke-opacity='0.05' %3E%3Ccircle fill='%232c2d3b' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%232a2b39' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%23282a36' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%23272834' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%23252631' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%2323252f' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%2321232d' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%2320212a' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%231e2028' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%231c1e26' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%231b1c24' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%23191b21' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%2318191f' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%2316171d' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%2315161b' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%23131419' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%23111216' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%230f1014' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
 
 }
 
 header {
 
     border-bottom: 1px solid #333333;
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: #0000003f;
+    padding: 25px 0;
 }
 
 .links {
 
-    padding: 30px;
     text-align: center;
 
 }
 
 .links a {
-    color: white;
+    color: #fff;
     font-weight: bold;
     font-size: 21px;
     line-height: 28px;
@@ -54,7 +58,7 @@ header {
 #wrapper {
 
     text-align: center;
-    padding: 32px;
+    padding: 60px;
 
 }
 
@@ -65,6 +69,7 @@ header {
     width: 200px;
     height: 200px;
     transition: border-color 500ms;
+
 
 }
 
@@ -108,6 +113,10 @@ header {
 
 }
 
+.social {
+    padding: 60px 0;
+}
+
 .skill {
 
     text-align: center;
@@ -120,4 +129,19 @@ header {
 
 .skill li {
     text-emphasis: none;
+}
+
+.footer {
+    border-top: 1px solid #333333;
+    background-color: #00000060;
+    padding: 16px;
+}
+
+.footer-conteiner {
+    text-align: center;
+}
+
+.footer-conteiner a {
+    text-decoration: none;
+    color: #50fa7b;
 }
