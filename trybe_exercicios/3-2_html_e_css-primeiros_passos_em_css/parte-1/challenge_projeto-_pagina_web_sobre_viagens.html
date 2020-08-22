@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Projeto: Viagem Edu </title>
+  <style>
+    /* reset */
+    :root {
+      --varPreto: #252525;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      border: 0;
+    }
+
+    body {
+      font-family: Georgia, serif;
+      color: var(--varPreto);
+    }
+
+    /* header */
+
+    .header {
+      background-color: var(--varPreto);
+      padding: 20px 0;
+    }
+
+    .menu-container {
+
+      max-width: 1180px;
+      margin: 0 auto;
+
+    }
+
+    .menu-container::after,
+    .menu-container::before {
+
+      content: '';
+      display: table;
+      clear: both;
+
+    }
+
+    .menu-logo {
+      font-size: 32px;
+      font-weight: bold;
+      display: block;
+      float: left;
+      margin-left: 10px;
+      text-decoration: none;
+      color: white;
+
+    }
+
+    .menu-nav {
+      float: right;
+      margin-right: 10px;
+    }
+
+    .menu-nav-link {
+      display: inline-block;
+    }
+
+    .menu-nav-link>a {
+      display: block;
+      padding: 10px;
+      text-decoration: none;
+      color: #fff;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    /* intro */
+
+    .intro {
+
+      background: url("https://upload.wikimedia.org/wikipedia/commons/2/2b/Johny_Cay.jpg") no-repeat center center;
+      background-size: cover;
+      padding: 200px 0;
+      text-align: center;
+      color: var(--varPreto);
+
+
+
+    }
+
+    .intro h1 {
+
+      text-transform: uppercase;
+      font-size: 48px;
+      margin-top: 200px;
+    }
+
+    .intro h1::after {
+      content: '';
+      display: block;
+      width: 20px;
+      height: 4px;
+      background-color: var(--varPreto);
+      margin: 10px auto;
+
+    }
+
+    .intro p {
+      font-style: italic;
+      font-size: 18px;
+
+
+    }
+
+    /* sobre */
+
+    .sobre {
+      padding: 60px 0;
+
+
+    }
+
+    .sobre h2 {
+
+      text-align: center;
+      font-size: 36px;
+      margin-bottom: 60px;
+    }
+
+    .sobre>p {
+
+      font-size: 18px;
+      line-height: 1.4em;
+      font-style: italic;
+      text-align: center;
+      max-width: 590px;
+      margin: 20px auto;
+    }
+
+    .sobre-container {
+
+      max-width: 1180px;
+      margin: 0 auto;
+
+
+    }
+
+    .sobre-container::after,
+    .sobre-container::before {
+
+      content: '';
+      display: table;
+      clear: both;
+    }
+
+    .sobre-item {
+
+      width: 570px;
+      float: left;
+      margin: 0 10px;
+
+    }
+
+    .sobre-item img {
+      width: 570px;
+      height: 370px;
+      display: block;
+      max-width: 100%;
+    }
+
+    .sobre-item h3 {
+
+      font-size: 42px;
+      line-height: 1em;
+      font-weight: normal;
+      font-style: italic;
+      background-color: var(--varPreto);
+      color: #fff;
+      width: 220px;
+      text-align: center;
+      padding: 5px 0 10px 0px;
+      top: -25px;
+      position: relative;
+
+    }
+
+    .produtos {
+
+      background: url("https://upload.wikimedia.org/wikipedia/commons/b/b1/Bacia_do_Pina_-_Recife%2C_Pernambuco%2C_Brasil.jpg") no-repeat center center;
+      background-size: cover;
+      padding: 150px 0;
+      border-top: #d6d3c8 solid 3px;
+
+    }
+
+
+
+    .produtos-conteiner {
+
+      max-width: 700px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .list-produtos h3 {
+      margin-bottom: 30px;
+      font-size: 40px;
+      color: var(--varPreto);
+
+    }
+
+    .list-produtos ul {
+      line-height: 24px;
+
+    }
+
+    .list-produtos li {
+      list-style-type: none;
+      font-size: 18px;
+      color: var(--varPreto);
+      margin-left: 16px;
+
+
+    }
+
+    .projeto {
+      padding: 60px 0;
+    }
+
+    .contatos {
+      background-color: var(--varPreto);
+      padding: 25px 0;
+    }
+
+    .contatos p {
+      color: #fff;
+      text-align: center;
+      font-size: 18px;
+    }
+
+    .contatos a {
+      color: #50fa7b;
+      text-decoration: none;
+    }
+
+    .contatos a:hover {
+      color: #fff;
+      text-decoration: underline;
+      transition: color 300ms;
+    }
+  </style>
+</head>
+
+<body>
+  <header class="header">
+    <div class="menu-container">
+      <a class="menu-logo" href="https://i.ibb.co/g4n9tLG/Edu-Sky.png">Edu's Sky</a>
+      <nav class=" menu-nav">
+        <ul>
+          <li class="menu-nav-link"><a href="#sobre">Sobre</a></li>
+          <li class="menu-nav-link"><a href="#produtos">Produtos</a></li>
+          <li class="menu-nav-link"><a href="#contatos">Contatos</a></li>
+          <li class="menu-nav-link"><a href="#projeto">Projeto</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main class="intro">
+    <h1>A SUA VIAGEM<br>COMEÇA AGORA</h1>
+  </main>
+  <section class="sobre" id="sobre">
+    <h2>Ferias maravilhosas com:</h2>
+    <div class="sobre-container">
+      <div class="sobre-item">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Air_traffic_controller_schiphol_tower.jpg"
+          alt="Homem focado no trabalho">
+        <h3>Segurança</h3>
+      </div>
+      <div class="sobre-item">
+        <img
+          src="https://images.squarespace-cdn.com/content/v1/568d7ccb25981d9e06ac4bf2/1455141958022-VKCTKCOP2JM2D9JKN7C4/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIeQMKeWYgwh6Mn73n2eZmZLHHpcPIxgL2SArp_rN2M_AKMshLAGzx4R3EDFOm1kBS/Pilatus+PC-12+Interior.jpg"
+          alt="Interior da aeronave com muito luxo e conforto">
+        <h3>Conforto</h3>
+      </div>
+    </div>
+    <p>Com agente você encontra os <strong>melhores roteiros</strong> de viagens,<br>
+      diversas opções de passeios, percorrendo os pontos turísticos de sua escolha numa
+      <strong>experiência unica</strong>, não espere mais,você encontrou o que precisa! Agende hoje mesmo sua viagem com
+      <br><strong>Edu's
+        Sky</strong>.</p>
+  </section>
+  <section id="produtos" class="produtos">
+    <div class="produtos-conteiner">
+      <div class="list-produtos">
+        <h3>Verdadeiros Tours</h3>
+        <ul>
+          <li><strong>Brasil</strong></li>
+          <li>Bolívia</li>
+          <li><em>Argentina</em></li>
+          <li>Peru</li>
+        </ul>
+      </div>
+      <div class="list-produtos">
+        <h3>Conheça lugares</h3>
+        <ul>
+          <li><strong>Terra Ronca - Brasil</strong></li>
+          <li>Uyuni - Bolívia</li>
+          <li>El Chaltén - Argentina</li>
+          <li><em>Huaraz - Peru</em></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+  <section id="projeto" class="projeto">
+
+
+  </section>
+  <footer id="contatos" class="contatos">
+    <div>
+      <p>Feito com ♥ por <a href="https://www.linkedin.com/in/eduardosouzaprogrammer/" target="_blank"><em>Edu
+            Souza</em></a></p>
+    </div>
+  </footer>
+
+
+
+</body>
+
+</html>
