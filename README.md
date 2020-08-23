@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Exercício github page: Portfólio page site github page - Concluído o/ o/ o/
+  Exercício github page: Portfólio - site github page - Concluído o/ o/ o/
 </h3>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-exercicio">Sobre o Exercício</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#rocket-Sobre-o-Exercício">Sobre o Exercício</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#Entrega">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#Licença">Licença</a>
 </p>
@@ -36,13 +36,13 @@
 
 ### Meu portfólio Web!
 
-A partir dos conhecimentos adquiridos, criei minha home page portfólio no github pages, na qual será o repositório central, organizando um "sumário" para todos os outros repositórios com resoluções de exercícios e projetos realizado na escola Trybe.
+A partir dos conhecimentos adquiridos, criei minha home page **portfólio no github pages**, na qual será o repositório central, organizando um _"sumário"_ para todos os outros repositórios com resoluções de exercícios e projetos realizado na escola Trybe.
 
 #### Abaixo você vai encontrar:
 
 -   Tabela com os exercícios realizados com o link do repositório referente;
 -   Tabela com os projetos realizados com o link do repositório referente;
--   .
+-   Acima têm o badge com a minha home page, ou você pode acessar [aqui](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io#rocket-sobre-o-exercicio)
 
 ## Entrega
 
