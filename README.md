@@ -42,9 +42,16 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 
 -   Tabela com os exercícios realizados com o link do repositório referente;
 -   Tabela com os projetos realizados com o link do repositório referente;
--   Acima têm o badge com a minha home page, ou você pode acessar [aqui](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io#rocket-sobre-o-exercicio)
+-   Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io#rocket-sobre-o-exercicio)_.
 
 ## Entrega
+
+### Tabela dos exercícios
+
+| Bloco - Dia |                 Título                  |                                                  link repositório                                                   |
+| :---------: | :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
+|     2-1     | Git & GitHub - O que é e para que serve | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
+|     2-2     |  Git & GitHub - Entendendo os comandos  | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
 
 ## Licença
 
