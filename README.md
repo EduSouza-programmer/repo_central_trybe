@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Exercício github page: Portfólio - site github page - Concluído o/ o/ o/
+  Exercício github page: Portfólio - github page - Concluído o/ o/ o/
 </h3>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
@@ -42,16 +42,20 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 
 -   Tabela com os exercícios realizados com o link do repositório referente;
 -   Tabela com os projetos realizados com o link do repositório referente;
--   Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://github.com/EduSouza-programmer/EduSouza-programmer.github.io#rocket-sobre-o-exercicio)_.
+-   Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://edusouza-programmer.github.io/)_.
+
+**PS: Todos os exercícios e projetos que foram solicitados repositórios no github.**
 
 ## Entrega
 
 ### Tabela dos exercícios
 
-| Bloco - Dia |                 Título                  |                                                  link repositório                                                   |
+| Bloco - Dia |                 Título                  |                                                  Link repositório                                                   |
 | :---------: | :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 |     2-1     | Git & GitHub - O que é e para que serve | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
 |     2-2     |  Git & GitHub - Entendendo os comandos  | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
+|     3-1     |    HTML & CSS - Estruturas de página    |       _[Trybe_Exercicio_3-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-1_Edu_Souza)_       |
+|     3-2     |  HTML & CSS - Primeiros passos em CSS   |       _[Trybe_Exercicio_3-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-2_Edu_Souza)_       |
 
 ## Licença
 
