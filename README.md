@@ -50,12 +50,18 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 
 ### Tabela dos exercícios
 
+#
+
 | Bloco - Dia |                 Título                  |                                                  Link repositório                                                   |
 | :---------: | :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 |     2-1     | Git & GitHub - O que é e para que serve | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
 |     2-2     |  Git & GitHub - Entendendo os comandos  | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
 |     3-1     |    HTML & CSS - Estruturas de página    |       _[Trybe_Exercicio_3-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-1_Edu_Souza)_       |
 |     3-2     |  HTML & CSS - Primeiros passos em CSS   |       _[Trybe_Exercicio_3-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-2_Edu_Souza)_       |
+
+#
+
+### Tabela dos projetos
 
 ## Licença
 
