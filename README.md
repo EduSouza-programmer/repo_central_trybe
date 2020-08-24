@@ -57,7 +57,7 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 |     3-1     |    HTML & CSS - Estruturas de página    |       _[Trybe_Exercicio_3-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-1_Edu_Souza)_       |
 |     3-2     |  HTML & CSS - Primeiros passos em CSS   |       _[Trybe_Exercicio_3-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-2_Edu_Souza)_       |
 
-**PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/.**
+_PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._
 
 #
 
@@ -68,7 +68,7 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 |     3-1     |    Livro de receitas     | [Trybe_Exercicio_3-1_Edu_Souza](https://bit.ly/2Ej92q4) | _[index.html](https://bit.ly/3j6Goan)_ |
 |     3-2     | Página web sobre viagens | [Trybe_Exercicio_3-2_Edu_Souza](https://bit.ly/3hpqAPG) | _[index.html](https://bit.ly/2CTWSDt)_ |
 
-**PS: A tabela acima de projetos será sempre atualizada conforme estou progredindo no curso o/.**
+_PS: A tabela acima de projetos será sempre atualizada conforme estou progredindo no curso o/._
 
 #
 
