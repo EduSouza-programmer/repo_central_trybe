@@ -44,7 +44,7 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 -   Tabela com os projetos realizados com o link do repositório referente;
 -   Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://edusouza-programmer.github.io/)_.
 
-**PS: Aqui constam todos os exercícios e projetos que foram solicitados para os repositórios no github.**
+**_PS: Aqui constam todos os exercícios e projetos que foram solicitados para os repositórios no github._**
 
 ## Entrega
 
