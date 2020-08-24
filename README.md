@@ -61,10 +61,10 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 
 ### Tabela dos projetos
 
-| Bloco - Dia |          Título          |                 Link repositório / Sobre                  |                Go Page                 |
-| :---------: | :----------------------: | :-------------------------------------------------------: | :------------------------------------: |
-|     3-1     |    Livro de receitas     | _[Trybe_Exercicio_3-1_Edu_Souza](https://bit.ly/2Ej92q4)_ | _[index.html](https://bit.ly/3j6Goan)_ |
-|     3-2     | Página web sobre viagens | _[Trybe_Exercicio_3-2_Edu_Souza](https://bit.ly/3hpqAPG)_ | _[index.html](https://bit.ly/2CTWSDt)_ |
+| Bloco - Dia |          Título          |                Link repositório / Sobre                 |                Go Page                 |
+| :---------: | :----------------------: | :-----------------------------------------------------: | :------------------------------------: |
+|     3-1     |    Livro de receitas     | [Trybe_Exercicio_3-1_Edu_Souza](https://bit.ly/2Ej92q4) | _[index.html](https://bit.ly/3j6Goan)_ |
+|     3-2     | Página web sobre viagens | [Trybe_Exercicio_3-2_Edu_Souza](https://bit.ly/3hpqAPG) | _[index.html](https://bit.ly/2CTWSDt)_ |
 
 ## Licença
 
