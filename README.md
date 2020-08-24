@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Exercício github page: Portfólio - github page - Concluído o/ o/ o/
+  Estudante Trybe turma 7 : Portfólio - github page - Cursando o/ o/ o/
 </h3>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
