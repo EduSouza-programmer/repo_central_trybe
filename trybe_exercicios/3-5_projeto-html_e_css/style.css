@@ -1,0 +1,258 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.conteiner::after,
+.conteiner::before {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: 'Chelsea Market', cursive;
+
+
+}
+
+#cabecalho {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* background-color: rgb(131, 226, 43); */
+  background-image: url("https://i.ibb.co/LpqJBpX/cool-background-main.png");
+  background-size: cover;
+  border-bottom: 3px solid rgba(165, 42, 42, 0.281);
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px;
+  font-size: 10px;
+  z-index: 10;
+
+
+
+}
+
+/* hero */
+
+main {
+  background-image: url("https://i.ibb.co/LpqJBpX/cool-background-main.png");
+  background-size: cover;
+  border-bottom: 2px solid rgba(165, 42, 42, 0.281);
+
+
+}
+
+.nav-conteiner {
+  width: 700px;
+  background-color: rgba(165, 42, 42, 0.247);
+  padding: 10px;
+  margin-top: 70px;
+  border-radius: 0 0 10px 10px;
+  border-top: 2px solid rgba(165, 42, 42, 0.281);
+
+}
+
+.nav-conteiner li {
+  display: inline-block;
+  margin: 0 30px;
+  line-height: 25px;
+
+
+
+}
+
+.nav-conteiner a {
+
+  text-decoration: none;
+  font-size: 18px;
+  color: whitesmoke;
+
+}
+
+.nav-conteiner a:hover {
+  border-bottom: 3px dashed rgba(240, 240, 240, 0.658);
+  font-weight: bold;
+
+}
+
+
+
+main div {
+
+  /* background-color: aqua; */
+  max-width: 1170px;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 30px;
+  line-height: 25px;
+
+
+}
+
+.itens {
+
+  width: 540px;
+  margin: 30px 20px;
+  float: left;
+
+}
+
+
+.itens img {
+
+  margin-top: 40px;
+  width: 345px;
+  border-radius: 20% 5px 20% 5px;
+  border: 3px solid rgba(165, 42, 42, 0.24);
+
+
+
+}
+
+.itens article {
+  margin-top: 90px;
+}
+
+.itens h1 {
+  padding: 30px 0;
+  font-size: 40px;
+  color: antiquewhite;
+
+}
+
+/* seção experiencias */
+
+.experiencias {
+  max-width: 1170px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 60px 0 30px 0;
+  /* background-color: brown; */
+}
+
+.experiencias em {
+  color: rgb(39, 190, 39);
+  text-decoration: underline;
+  font-size: 32px;
+}
+
+.experiencias h1 {
+
+  font-size: 24px;
+}
+
+
+
+
+.experiencias p {
+  width: 700px;
+  padding: 60px 0 30px;
+  margin: 0 auto;
+  /* background-color: blue; */
+  line-height: 25px;
+
+}
+
+
+.quotes-svg {
+  width: 70px;
+  height: 70px;
+  margin: 0 auto 0px 200px;
+
+
+
+}
+
+.rocket-svg {
+  width: 70px;
+  height: 70px;
+  margin: 30px auto;
+
+}
+
+
+
+
+
+.licoes-conteiner {
+  max-width: 1170px;
+  margin: 0px auto;
+  /* background-color: yellow; */
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 60px;
+
+
+}
+
+.licoes-conteiner div {
+  width: 450px;
+  float: left;
+  margin: 0 65px;
+  /* background-color: blueviolet; */
+  padding: 0 0 15px;
+}
+
+.licoes-conteiner h1 {
+  font-size: 24px;
+}
+
+#licoes_aprendidas {
+  text-align: left;
+  margin-left: 100px;
+  padding: 30px 0;
+
+}
+
+#licoes_a_aprender {
+  text-align: left;
+  margin-left: 100px;
+  padding: 30px 0;
+}
+
+.table {
+  max-width: 1170px;
+  margin: 0 auto;
+
+  text-align: center;
+
+}
+
+.table table {
+  display: inline;
+}
+
+.table svg {
+  width: 30px;
+  height: 30px;
+}
+
+
+
+#rodape {
+  text-align: center;
+  padding: 20px 0;
+  background-image: url("https://i.ibb.co/LpqJBpX/cool-background-main.png");
+  background-size: cover;
+  border-top: 2px solid rgba(165, 42, 42, 0.281);
+}
+
+#rodape div {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+#rodape a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+#rodape a:hover {
+  border-bottom: 3px dashed rgba(240, 240, 240, 0.658);
+  font-weight: bold;
+}
