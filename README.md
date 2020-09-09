@@ -58,6 +58,7 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 |     3-2     |      HTML & CSS - Primeiros passos em CSS       |       _[Trybe_Exercicio_3-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-2_Edu_Souza)_       |
 |     3-3     |     HTML & CSS - Seletores e posicionamento     |       _[Trybe_Exercicio_3-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-3_Edu_Souza)_       |
 |     4-3     | JavaScript - Lógica de Programação e Algoritmos |       _[Trybe_Exercicio_4-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_4-3_Edu_Souza)_       |
+|     5-2     |     JavaScript - Trabalhando com elementos      |       _[Trybe_Exercicio_5-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_5-2_Edu_Souza)_       |
 
 _PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._
 
