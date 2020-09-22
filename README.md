@@ -59,6 +59,7 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 |     3-3     |     HTML & CSS - Seletores e posicionamento     |       _[Trybe_Exercicio_3-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-3_Edu_Souza)_       |
 |     4-3     | JavaScript - Lógica de Programação e Algoritmos |       _[Trybe_Exercicio_4-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_4-3_Edu_Souza)_       |
 |     5-2     |     JavaScript - Trabalhando com elementos      |       _[Trybe_Exercicio_5-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_5-2_Edu_Souza)_       |
+|     6-3     |             CSS - Flexbox - Parte 1             |       _[Trybe_Exercicio_6-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-3_Edu_Souza)_       |
 
 _PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._
 
@@ -68,10 +69,10 @@ _PS: A tabela acima de exercícios será sempre atualizada conforme estou progre
 
 | Bloco - Dia |          Título          |                Link repositório / Sobre                 |                Go Page                 |
 | :---------: | :----------------------: | :-----------------------------------------------------: | :------------------------------------: |
-|     3-1     |    Livro de receitas     | [Trybe_Exercicio_3-1_Edu_Souza](https://bit.ly/2Ej92q4) | _[index.html](https://bit.ly/3j6Goan)_ |
-|     3-2     | Página web sobre viagens | [Trybe_Exercicio_3-2_Edu_Souza](https://bit.ly/3hpqAPG) | _[index.html](https://bit.ly/2CTWSDt)_ |
-|     3-3     |    Convite de evento     | [Trybe_Exercicio_3-3_Edu_Souza](https://bit.ly/3lbABSZ) | _[index.html](https://bit.ly/31o5Hig)_ |
-|     3-5     |   Projeto - HTML & CSS   | [Trybe_Exercicio_3-5_Edu_Souza](https://bit.ly/3luM3cd) | _[index.html](https://bit.ly/2YOkRLV)_ |
+|     3-1     |    Livro de receitas     | [Trybe_Exercicio_3-1_Edu_Souza](https://bit.ly/2Ej92q4) | _[Go to page](https://bit.ly/3j6Goan)_ |
+|     3-2     | Página web sobre viagens | [Trybe_Exercicio_3-2_Edu_Souza](https://bit.ly/3hpqAPG) | _[Go to page](https://bit.ly/2CTWSDt)_ |
+|     3-3     |    Convite de evento     | [Trybe_Exercicio_3-3_Edu_Souza](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
+|     3-5     |   Projeto - HTML & CSS   | [Trybe_Exercicio_3-5_Edu_Souza](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
 
 _PS: A tabela acima de projetos será sempre atualizada conforme estou progredindo no curso o/._
 
