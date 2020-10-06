@@ -40,9 +40,9 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 
 #### Abaixo você vai encontrar:
 
--   Tabela com os exercícios realizados com o link do repositório referente;
--   Tabela com os projetos realizados com o link do repositório referente;
--   Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://edusouza-programmer.github.io/)_.
+- Tabela com os exercícios realizados com o link do repositório referente;
+- Tabela com os projetos realizados com o link do repositório referente;
+- Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://edusouza-programmer.github.io/)_.
 
 **_PS: Aqui constam todos os exercícios e projetos que foram solicitados para os repositórios no github._**
 
@@ -61,6 +61,7 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 |     5-2     |     JavaScript - Trabalhando com elementos      |       _[Trybe_Exercicio_5-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_5-2_Edu_Souza)_       |
 |     6-3     |             CSS - Flexbox - Parte 1             |       _[Trybe_Exercicio_6-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-3_Edu_Souza)_       |
 |     6-4     |             CSS - Flexbox - Parte 2             |       _[Trybe_Exercicio_6-4_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-4_Edu_Souza)_       |
+|     8-1     |     ES6 - Higher Order Functions - Parte 1      |       _[Trybe_Exercicio_8-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_8-1_Edu_Souza)_       |
 
 _PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._
 
