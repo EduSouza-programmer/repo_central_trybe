@@ -48,7 +48,7 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 
 # :postbox: Entrega
 
-### Tabela dos exercícios
+### Tabela dos exercícios :clipboard:
 
 | Bloco - Dia |                     Título                      |                                              Link repositório / Sobre                                               |
 | :---------: | :---------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
@@ -69,7 +69,7 @@ _PS: A tabela acima de exercícios será sempre atualizada conforme estou progre
 
 #
 
-### Tabela dos projetos
+### Tabela dos projetos :clipboard:
 
 | Bloco - Dia |          Título          |                Link repositório / Sobre                 |                Go Page                 |
 | :---------: | :----------------------: | :-----------------------------------------------------: | :------------------------------------: |
