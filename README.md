@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Estudante Trybe turma 7 : Portfólio - github page - Cursando o/ o/ o/
+  Estudante Trybe turma 7 : Portfólio - github page - Cursando o/ o/ o/ :star:
 </h3>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
@@ -28,11 +28,11 @@
 
 <p align="center">
   <a href="#rocket-Sobre-o-Portfólio">Sobre o Portfólio</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#Entrega">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#Licença">Licença</a>
+  <a href="#postbox-Entrega"">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#unlock-Licença">Licença</a>
 </p>
 
-## :rocket: Sobre o Portfólio
+# :rocket: Sobre o Portfólio
 
 ### Meu portfólio Web!
 
@@ -44,9 +44,9 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 - Tabela com os projetos realizados com o link do repositório referente;
 - Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://edusouza-programmer.github.io/)_.
 
-**_PS: Aqui constam todos os exercícios e projetos que foram solicitados para os repositórios no github._**
+**_PS: Aqui constam todos os exercícios e projetos que foram solicitados para os repositórios no github._** :running:
 
-## Entrega
+# :postbox: Entrega
 
 ### Tabela dos exercícios
 
@@ -62,8 +62,10 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 |     6-3     |             CSS - Flexbox - Parte 1             |       _[Trybe_Exercicio_6-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-3_Edu_Souza)_       |
 |     6-4     |             CSS - Flexbox - Parte 2             |       _[Trybe_Exercicio_6-4_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-4_Edu_Souza)_       |
 |     8-1     |     ES6 - Higher Order Functions - Parte 1      |       _[Trybe_Exercicio_8-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_8-1_Edu_Souza)_       |
+|     9-1     |       JavaScript - Assíncrono e Callbacks       |       _[Trybe_Exercicio_9-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-1_Edu_Souza)_       |
+|     9-2     |              JavaScript - Promises              |       _[Trybe_Exercicio_9-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-2_Edu_Souza)_       |
 
-_PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._
+_PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._ :smile:
 
 #
 
@@ -76,10 +78,10 @@ _PS: A tabela acima de exercícios será sempre atualizada conforme estou progre
 |     3-3     |    Convite de evento     | [Trybe_Exercicio_3-3_Edu_Souza](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
 |     3-5     |   Projeto - HTML & CSS   | [Trybe_Exercicio_3-5_Edu_Souza](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
 
-_PS: A tabela acima de projetos será sempre atualizada conforme estou progredindo no curso o/._
+_PS: A tabela acima de projetos será sempre atualizada conforme estou progredindo no curso o/._ :muscle:
 
 #
 
-## Licença
+## :unlock: Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte [LICENSE](https://opensource.org/licenses/MIT) para maiores detalhes.

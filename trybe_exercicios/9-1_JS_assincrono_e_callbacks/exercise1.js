@@ -1,0 +1,34 @@
+const planetDistanceFromSun = ({
+  name,
+  distanceFromSun: { value, measurementUnit },
+}) => `${name} is ${value} ${measurementUnit} apart from the Sun`;
+
+const mars = {
+  name: 'Mars',
+  distanceFromSun: {
+    value: 227900000,
+    measurementUnit: 'kilometers',
+  },
+};
+
+const venus = {
+  name: 'Venus',
+  distanceFromSun: {
+    value: 108200000,
+    measurementUnit: 'kilometers',
+  },
+};
+
+const jupiter = {
+  name: 'Jupiter',
+  distanceFromSun: {
+    value: 778500000,
+    measurementUnit: 'kilometers',
+  },
+};
+
+console.log(planetDistanceFromSun(mars)); // A Primeiro
+console.log(planetDistanceFromSun(venus)); // B Segundo
+console.log(planetDistanceFromSun(jupiter)); // C Terceiro
+
+// A ordem de finalização das linhas comentadas é: A, B e, por fim, C
