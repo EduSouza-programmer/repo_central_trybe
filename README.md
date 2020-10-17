@@ -50,20 +50,20 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 
 ### Tabela dos exercícios :clipboard:
 
-| Bloco - Dia |                     Título                      |                                              Link repositório / Sobre                                               |
-| :---------: | :---------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|     2-1     |     Git & GitHub - O que é e para que serve     | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
-|     2-2     |      Git & GitHub - Entendendo os comandos      | _[Trybe_Exercicio_2-1_e_2-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
-|     3-1     |        HTML & CSS - Estruturas de página        |       _[Trybe_Exercicio_3-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-1_Edu_Souza)_       |
-|     3-2     |      HTML & CSS - Primeiros passos em CSS       |       _[Trybe_Exercicio_3-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-2_Edu_Souza)_       |
-|     3-3     |     HTML & CSS - Seletores e posicionamento     |       _[Trybe_Exercicio_3-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-3_Edu_Souza)_       |
-|     4-3     | JavaScript - Lógica de Programação e Algoritmos |       _[Trybe_Exercicio_4-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_4-3_Edu_Souza)_       |
-|     5-2     |     JavaScript - Trabalhando com elementos      |       _[Trybe_Exercicio_5-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_5-2_Edu_Souza)_       |
-|     6-3     |             CSS - Flexbox - Parte 1             |       _[Trybe_Exercicio_6-3_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-3_Edu_Souza)_       |
-|     6-4     |             CSS - Flexbox - Parte 2             |       _[Trybe_Exercicio_6-4_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-4_Edu_Souza)_       |
-|     8-1     |     ES6 - Higher Order Functions - Parte 1      |       _[Trybe_Exercicio_8-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_8-1_Edu_Souza)_       |
-|     9-1     |       JavaScript - Assíncrono e Callbacks       |       _[Trybe_Exercicio_9-1_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-1_Edu_Souza)_       |
-|     9-2     |              JavaScript - Promises              |       _[Trybe_Exercicio_9-2_Edu_Souza](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-2_Edu_Souza)_       |
+| Bloco - Dia |                     Título                      |                               Link repositório - Exercícios                               |
+| :---------: | :---------------------------------------------: | :---------------------------------------------------------------------------------------: |
+|     2-1     |     Git & GitHub - O que é e para que serve     | _[2-1_e_2-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
+|     2-2     |      Git & GitHub - Entendendo os comandos      | _[2-1_e_2-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_2-1_e_2-2_Edu_Souza)_ |
+|     3-1     |        HTML & CSS - Estruturas de página        |       _[3-1](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-1_Edu_Souza)_       |
+|     3-2     |      HTML & CSS - Primeiros passos em CSS       |       _[3-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-2_Edu_Souza)_       |
+|     3-3     |     HTML & CSS - Seletores e posicionamento     |       _[3-3](https://github.com/EduSouza-programmer/Trybe_Exercicio_3-3_Edu_Souza)_       |
+|     4-3     | JavaScript - Lógica de Programação e Algoritmos |       _[4-3](https://github.com/EduSouza-programmer/Trybe_Exercicio_4-3_Edu_Souza)_       |
+|     5-2     |     JavaScript - Trabalhando com elementos      |       _[5-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_5-2_Edu_Souza)_       |
+|     6-3     |             CSS - Flexbox - Parte 1             |       _[6-3](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-3_Edu_Souza)_       |
+|     6-4     |             CSS - Flexbox - Parte 2             |       _[6-4](https://github.com/EduSouza-programmer/Trybe_Exercicio_6-4_Edu_Souza)_       |
+|     8-1     |     ES6 - Higher Order Functions - Parte 1      |       _[8-1](https://github.com/EduSouza-programmer/Trybe_Exercicio_8-1_Edu_Souza)_       |
+|     9-1     |       JavaScript - Assíncrono e Callbacks       |       _[9-1](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-1_Edu_Souza)_       |
+|     9-2     |              JavaScript - Promises              |       _[9-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-2_Edu_Souza)_       |
 
 _PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._ :smile:
 
@@ -71,12 +71,12 @@ _PS: A tabela acima de exercícios será sempre atualizada conforme estou progre
 
 ### Tabela dos projetos :clipboard:
 
-| Bloco - Dia |          Título          |                Link repositório / Sobre                 |                Go Page                 |
-| :---------: | :----------------------: | :-----------------------------------------------------: | :------------------------------------: |
-|     3-1     |    Livro de receitas     | [Trybe_Exercicio_3-1_Edu_Souza](https://bit.ly/2Ej92q4) | _[Go to page](https://bit.ly/3j6Goan)_ |
-|     3-2     | Página web sobre viagens | [Trybe_Exercicio_3-2_Edu_Souza](https://bit.ly/3hpqAPG) | _[Go to page](https://bit.ly/2CTWSDt)_ |
-|     3-3     |    Convite de evento     | [Trybe_Exercicio_3-3_Edu_Souza](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
-|     3-5     |   Projeto - HTML & CSS   | [Trybe_Exercicio_3-5_Edu_Souza](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
+| Bloco - Dia |          Título          |  Link repositório - Projetos  |              Run Project               |
+| :---------: | :----------------------: | :---------------------------: | :------------------------------------: |
+|     3-1     |    Livro de receitas     | [3-1](https://bit.ly/2Ej92q4) | _[Go to page](https://bit.ly/3j6Goan)_ |
+|     3-2     | Página web sobre viagens | [3-2](https://bit.ly/3hpqAPG) | _[Go to page](https://bit.ly/2CTWSDt)_ |
+|     3-3     |    Convite de evento     | [3-3](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
+|     3-5     |   Projeto - HTML & CSS   | [3-5](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
 
 _PS: A tabela acima de projetos será sempre atualizada conforme estou progredindo no curso o/._ :muscle:
 
