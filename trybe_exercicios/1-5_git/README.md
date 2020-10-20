@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Exercício 2-1: Trybe - Git & GitHub - O que é e para que serve - Concluído o/ o/ o/
+  Exercício 2-1: Trybe - Git & GitHub - O que é e para que serve - Concluído o/ o/ o/ :star:
 </h3>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
