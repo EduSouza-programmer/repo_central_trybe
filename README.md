@@ -36,7 +36,7 @@
 
 ### Meu portfólio Web!
 
-A partir dos conhecimentos adquiridos, criei minha home page **portfólio no github pages**, na qual será o repositório central, organizando um _"sumário"_ para todos os outros repositórios com resoluções de exercícios e projetos realizado na escola Trybe
+A partir dos conhecimentos adquiridos, criei minha home page **portfólio no github pages**, na qual será o repositório central, organizando um _"sumário"_ para todos os outros repositórios com resoluções de exercícios e projetos realizado na escola Trybe.
 
 #### Abaixo você vai encontrar:
 
