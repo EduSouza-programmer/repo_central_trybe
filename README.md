@@ -44,10 +44,10 @@ Com toda sinceridade do mundo, e uma das coisas que prezo muito praticando, é q
   - Mesmo sendo um ano de curso e com a proposta de "encaminhamento" para o mercado de trabalho, 36k para um curso livre e ainda mais, mau estruturado... sei... muita burrice a minha ter entrado :( . 
 - _"Especialistas..."_
   - São assim os chamados professores lá no curso, posso dizer com toda certeza que os mesmos não são, pelo menos não ensinando. Desculpe pessoal mas os professores de lá são muito, muito ruims, não explicam direito e se enrolam durante o processo.  
-- Ondemand
+- On demand
   - O foco do curso é fazer um grande overview das tecnologias web, tudo isso em um ano, todos os dias tem conteudo novo! Ok Edu qual o problema nisso? O problema que a quantidade de conteúdo x 365 dias não são proporcionais. Então imaginemos que você precise de mais dias para entender melhor o que é um Promise ou um Reducer ou mesmo um componente React? É meu amigo, você não têm esse tempo, posso dizer que, quem já estudava antes de entra no curso, conseguia acompanhar traquilamente, mas quem era um completo iniciante ficavam pulando de turma.
 
-Com tudo isso que menciono acima, organizei esse repositório baseado em tudo que fiz durante o curso, muita coisas eu já havia estudado, porém não quero fique a impressão que foi a trybe que me ensinou, apenas quero deixar registrado minha passagem e experiências.  
+Com tudo isso que menciono acima, organizei esse repositório baseado em tudo que fiz durante o curso, muitas coisas eu já havia estudado, porém não quero fique a impressão que foi a trybe que me ensinou, apenas quero deixar registrado minha passagem e experiências.  
 #### Abaixo você vai encontrar:
 
 - Tabela com os exercícios realizados com o link do repositório referente;
@@ -56,6 +56,17 @@ Com tudo isso que menciono acima, organizei esse repositório baseado em tudo qu
 _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe ._ :running:
 
 ## :postbox: Entrega
+#### Tabela dos projetos :clipboard:
+
+| Bloco - Dia |          Título          |  Link repositório - Projetos  |              Run Project               |
+| :---------: | :----------------------: | :---------------------------: | :------------------------------------: |
+|     3-1     |    Livro de receitas     | [3-1](https://bit.ly/2Ej92q4) | _[Go to page](https://bit.ly/3j6Goan)_ |
+|     3-2     | Página web sobre viagens | [3-2](https://bit.ly/3hpqAPG) | _[Go to page](https://bit.ly/2CTWSDt)_ |
+|     3-3     |    Convite de evento     | [3-3](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
+|     3-5     |   Projeto - HTML & CSS   | [3-5](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
+
+
+#
 
 #### Tabela dos exercícios :clipboard:
 
@@ -73,19 +84,6 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 |     8-1     |     ES6 - Higher Order Functions - Parte 1      |       _[8-1](https://github.com/EduSouza-programmer/Trybe_Exercicio_8-1_Edu_Souza)_       |
 |     9-1     |       JavaScript - Assíncrono e Callbacks       |       _[9-1](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-1_Edu_Souza)_       |
 |     9-2     |              JavaScript - Promises              |       _[9-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-2_Edu_Souza)_       |
-
-
-#
-
-#### Tabela dos projetos :clipboard:
-
-| Bloco - Dia |          Título          |  Link repositório - Projetos  |              Run Project               |
-| :---------: | :----------------------: | :---------------------------: | :------------------------------------: |
-|     3-1     |    Livro de receitas     | [3-1](https://bit.ly/2Ej92q4) | _[Go to page](https://bit.ly/3j6Goan)_ |
-|     3-2     | Página web sobre viagens | [3-2](https://bit.ly/3hpqAPG) | _[Go to page](https://bit.ly/2CTWSDt)_ |
-|     3-3     |    Convite de evento     | [3-3](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
-|     3-5     |   Projeto - HTML & CSS   | [3-5](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
-
 
 #
 
