@@ -3,16 +3,18 @@
 </h1>
 
 <h3 align="center">
-  Estudante Trybe turma 7 : Portfólio - github page - Cursando o/ o/ o/ :star:
+  Cursos realizados na Trybe - Edu Souza o/
 </h3>
 
 <blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
 
-<h1></h1>
+<h4 align="center">
+  Repositório - Central
+</h4>
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/eduardosouzaprogrammer/" target="_blank">
+  <a href="https://github.com/EduSouza-programmer" target="_blank">
     <img alt="Made by Eduardo Souza" src="https://img.shields.io/badge/made%20by-Edu%20Souza-%23F8952D">
   </a>&nbsp;
 
@@ -27,28 +29,35 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Sobre-o-Portfólio">Sobre o Portfólio</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#rocket-Sobre-o-curso">Sobre o curso</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#postbox-Entrega"">Entrega</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#unlock-Licença">Licença</a>
 </p>
 
-# :rocket: Sobre o Portfólio
+## :rocket: Sobre o curso
 
-### Meu portfólio Web!
+### Meu aprendizando na trybe
 
-A partir dos conhecimentos adquiridos, criei minha home page **portfólio no github pages**, na qual será o repositório central, organizando um _"sumário"_ para todos os outros repositórios com resoluções de exercícios e projetos realizado na escola Trybe.
+Com toda sinceridade do mundo, e uma das coisas que prezo muito praticando, é que não gostei do curso da trybe, você que está lendo isso ou esta avaliando meus trabalhos aqui no github, verá que este é o único curso que de fato não realizaria novamente, tanto é que sair do mesmo com 5 meses. Mas você deve está pensando, como assim Edu? Só vejo avaliações boas para a trybe, como você não gostou?... Bem vou explicar apenas três pontos, claro que ainda tenho muitos, mas serei breve:
 
+- _Extremamente caro_
+  - Mesmo sendo um ano de curso e com a proposta de "encaminhamento" para o mercado de trabalho, 36k para um curso livre e ainda mais, mau estruturado... sei... muita burrice a minha ter entrado :( . 
+- _"Especialistas..."_
+  - São assim os chamados professores lá no curso, posso dizer com toda certeza que os mesmos não são, pelo menos não ensinando. Desculpe pessoal mas os professores de lá são muito, muito ruims, não explicam direito e se enrolam durante o processo.  
+- Ondemand
+  - O foco do curso é fazer um grande overview das tecnologias web, tudo isso em um ano, todos os dias tem conteudo novo! Ok Edu qual o problema nisso? O problema que a quantidade de conteúdo x 365 dias não são proporcionais. Então imaginemos que você precise de mais dias para entender melhor o que é um Promise ou um Reducer ou mesmo um componente React? É meu amigo, você não têm esse tempo, posso dizer que, quem já estudava antes de entra no curso, conseguia acompanhar traquilamente, mas quem era um completo iniciante ficavam pulando de turma.
+
+Com tudo isso que menciono acima, organizei esse repositório baseado em tudo que fiz durante o curso, muita coisas eu já havia estudado, porém não quero fique a impressão que foi a trybe que me ensinou, apenas quero deixar registrado minha passagem e experiências.  
 #### Abaixo você vai encontrar:
 
 - Tabela com os exercícios realizados com o link do repositório referente;
 - Tabela com os projetos realizados com o link do repositório referente;
-- Acima têm o badge com a minha home page, ou você pode acessar _[aqui](https://edusouza-programmer.github.io/)_.
 
-**_PS: Aqui constam todos os exercícios e projetos que foram solicitados para os repositórios no github._** :running:
+_PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe ._ :running:
 
-# :postbox: Entrega
+## :postbox: Entrega
 
-### Tabela dos exercícios :clipboard:
+#### Tabela dos exercícios :clipboard:
 
 | Bloco - Dia |                     Título                      |                               Link repositório - Exercícios                               |
 | :---------: | :---------------------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -65,11 +74,10 @@ A partir dos conhecimentos adquiridos, criei minha home page **portfólio no git
 |     9-1     |       JavaScript - Assíncrono e Callbacks       |       _[9-1](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-1_Edu_Souza)_       |
 |     9-2     |              JavaScript - Promises              |       _[9-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-2_Edu_Souza)_       |
 
-_PS: A tabela acima de exercícios será sempre atualizada conforme estou progredindo no curso o/._ :smile:
 
 #
 
-### Tabela dos projetos :clipboard:
+#### Tabela dos projetos :clipboard:
 
 | Bloco - Dia |          Título          |  Link repositório - Projetos  |              Run Project               |
 | :---------: | :----------------------: | :---------------------------: | :------------------------------------: |
@@ -78,7 +86,12 @@ _PS: A tabela acima de exercícios será sempre atualizada conforme estou progre
 |     3-3     |    Convite de evento     | [3-3](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
 |     3-5     |   Projeto - HTML & CSS   | [3-5](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
 
-_PS: A tabela acima de projetos será sempre atualizada conforme estou progredindo no curso o/._ :muscle:
+
+#
+
+### Considerações finais
+
+Notoriamente meu nível de satisfação com o curso da Trybe não fora pleno, mas posso dizer que foi desafiante, principalmente para exercer a paciência. Não indico este curso absolutamente para ninguém, infelizmente esse empresa se valida da esperança, desejo de vencer e sonhos alheios, principalmente no ano de 2020 (em plena pandemia) em que abriram várias turmas com pessoas infelizmente desempregadas, migrando de profissões e confiante que era a melhor escolha a se fazer, se esquecendo completamente de um contrato com valor absurdo 36.000,00 (trinta e seis mil reais).  
 
 #
 
