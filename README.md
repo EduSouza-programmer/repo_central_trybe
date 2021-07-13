@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="400px" />
+    <img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="300px" />
 </h1>
 
 <h3 align="center">
