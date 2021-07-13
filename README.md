@@ -6,7 +6,7 @@
   Cursos realizados na Trybe - Edu Souza o/
 </h3>
 
-<blockquote align="center">“Quanto mais você estuda, mais aprende e se aproxima de realizar seu sonhos!”</blockquote>
+<blockquote align="center">“A verdade nunca é injusta; pode magoar, mas não deixa ferida - Eduardo Girão”</blockquote>
 
 <h4 align="center">
   Repositório - Central
@@ -58,26 +58,26 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 ## :postbox: Entrega
 #### Tabela dos projetos :clipboard:
 
-| Bloco - Dia |            Título            |  Link repositório - Projetos  |              Run Project               |
-| :---------: | :--------------------------: | :---------------------------: | :------------------------------------: |
-|     3-1     |      Livro de receitas       | [3-1](https://bit.ly/2Ej92q4) | _[Go to page](https://bit.ly/3j6Goan)_ |
-|     3-2     |   Página web sobre viagens   | [3-2](https://bit.ly/3hpqAPG) | _[Go to page](https://bit.ly/2CTWSDt)_ |
-|     3-3     |      Convite de evento       | [3-3](https://bit.ly/3lbABSZ) | _[Go to page](https://bit.ly/31o5Hig)_ |
-|     3-5     |     Projeto - HTML & CSS     | [3-5](https://bit.ly/3luM3cd) | _[Go to page](https://bit.ly/2YOkRLV)_ |
-|     4-5     |     Playground functions     |            [4-5]()            |            _[Go to page]()_            |
-|     5-5     |        Meme generator        |            [5-5]()            |            _[Go to page]()_            |
-|     5-6     |       Arte com pixels        |            [5-6]()            |            _[Go to page]()_            |
-|     5-7     |       Lista de tarefas       |            [5-7]()            |            _[Go to page]()_            |
-|     6-6     |  Pagina inicial do facebook  |            [6-6]()            |            _[Go to page]()_            |
-|     7-4     | Javascript testes unitarios  |            [7-4]()            |            _[Go to page]()_            |
-|     8-5     |        Zoo functions         |            [8-5]()            |            _[Go to page]()_            |
-|     9-3     |     Carrinho de compras      |            [9-3]()            |            _[Go to page]()_            |
-|    9-3-2    |        Casa de cambio        |           [9-3-2]()           |            _[Go to page]()_            |
-|    10-4     |  Jest assincrono e mocking   |           [10-4]()            |            _[Go to page]()_            |
-|    11-3     |     Movie cards library      |           [11-3]()            |            _[Go to page]()_            |
-|    12-3     | Movie cards library stateful |           [12-3]()            |            _[Go to page]()_            |
-|    14-2     |    Frontend online store     |           [14-2]()            |            _[Go to page]()_            |
-|    15-4     |    React testing library     |           [15-4]()            |            _[Go to page]()_            |
+| Bloco - Dia |            Título            |                        Link repositório - Projetos                        |              Run Project               |
+| :---------: | :--------------------------: | :-----------------------------------------------------------------------: | :------------------------------------: |
+|     3-1     |      Livro de receitas       |                       [3-1](https://bit.ly/2Ej92q4)                       | _[Go to page](https://bit.ly/3j6Goan)_ |
+|     3-2     |   Página web sobre viagens   |                       [3-2](https://bit.ly/3hpqAPG)                       | _[Go to page](https://bit.ly/2CTWSDt)_ |
+|     3-3     |      Convite de evento       |                       [3-3](https://bit.ly/3lbABSZ)                       | _[Go to page](https://bit.ly/31o5Hig)_ |
+|     3-5     |     Projeto - HTML & CSS     |                       [3-5](https://bit.ly/3luM3cd)                       | _[Go to page](https://bit.ly/2YOkRLV)_ |
+|     4-5     |     Playground functions     | [4-5](https://github.com/EduSouza-programmer/Trybe_Projeto_4-5_Edu_Souza) |                   -                    |
+|     5-5     |        Meme generator        |                                  [5-5]()                                  |            _[Go to page]()_            |
+|     5-6     |       Arte com pixels        |                                  [5-6]()                                  |            _[Go to page]()_            |
+|     5-7     |       Lista de tarefas       |                                  [5-7]()                                  |            _[Go to page]()_            |
+|     6-6     |  Pagina inicial do facebook  |                                  [6-6]()                                  |            _[Go to page]()_            |
+|     7-4     | Javascript testes unitarios  |                                  [7-4]()                                  |            _[Go to page]()_            |
+|     8-5     |        Zoo functions         |                                  [8-5]()                                  |            _[Go to page]()_            |
+|     9-3     |     Carrinho de compras      |                                  [9-3]()                                  |            _[Go to page]()_            |
+|    9-3-2    |        Casa de cambio        |                                 [9-3-2]()                                 |            _[Go to page]()_            |
+|    10-4     |  Jest assincrono e mocking   |                                 [10-4]()                                  |            _[Go to page]()_            |
+|    11-3     |     Movie cards library      |                                 [11-3]()                                  |            _[Go to page]()_            |
+|    12-3     | Movie cards library stateful |                                 [12-3]()                                  |            _[Go to page]()_            |
+|    14-2     |    Frontend online store     |                                 [14-2]()                                  |            _[Go to page]()_            |
+|    15-4     |    React testing library     |                                 [15-4]()                                  |            _[Go to page]()_            |
 
 
 #
