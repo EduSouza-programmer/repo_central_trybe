@@ -58,7 +58,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 ## :postbox: Entrega
 #### Tabela dos projetos :clipboard:
 
-| Bloco - Dia |            Título            |                        Link repositório - Projetos                        |                                    Run Project                                     |
+| Bloco - Dia |            Título            |                        Link repositório - Projetos                        |                                       Deploy                                       |
 | :---------: | :--------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
 |     3-1     |      Livro de receitas       |                       [3-1](https://bit.ly/2Ej92q4)                       |                       _[Go to page](https://bit.ly/3j6Goan)_                       |
 |     3-2     |   Página web sobre viagens   |                       [3-2](https://bit.ly/3hpqAPG)                       |                       _[Go to page](https://bit.ly/2CTWSDt)_                       |
@@ -66,7 +66,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 |     3-5     |     Projeto - HTML & CSS     |                       [3-5](https://bit.ly/3luM3cd)                       |                       _[Go to page](https://bit.ly/2YOkRLV)_                       |
 |     4-5     |     Playground functions     | [4-5](https://github.com/EduSouza-programmer/Trybe_Projeto_4-5_Edu_Souza) |                                         -                                          |
 |     5-5     |        Meme generator        | [5-5](https://github.com/EduSouza-programmer/Trybe_Projeto_5-5_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_5-5_Edu_Souza/)_ |
-|     5-6     |       Arte com pixels        |                                  [5-6]()                                  |                                  _[Go to page]()_                                  |
+|     5-6     |       Arte com pixels        | [5-6](https://github.com/EduSouza-programmer/Trybe_Projeto_5-6_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_5-6_Edu_Souza/)_ |
 |     5-7     |       Lista de tarefas       |                                  [5-7]()                                  |                                  _[Go to page]()_                                  |
 |     6-6     |  Pagina inicial do facebook  |                                  [6-6]()                                  |                                  _[Go to page]()_                                  |
 |     7-4     | Javascript testes unitarios  |                                  [7-4]()                                  |                                  _[Go to page]()_                                  |
