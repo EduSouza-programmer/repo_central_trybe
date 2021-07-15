@@ -38,16 +38,17 @@
 
 ### Meu aprendizando na trybe
 
-Com toda sinceridade do mundo, e uma das coisas que prezo muito praticando, é que não gostei do curso da trybe, você que está lendo isso ou esta avaliando meus trabalhos aqui no github, verá que este é o único curso que de fato não realizaria novamente, tanto é que sair do mesmo com 5 meses. Mas você deve está pensando, como assim Edu? Só vejo avaliações boas para a trybe, como você não gostou?... Bem vou explicar apenas três pontos, claro que ainda tenho muitos, mas serei breve:
+Com toda sinceridade do mundo, na qual é uma das coisas que prezo muito, não gostei do curso da trybe! 
+Você que está lendo isso ou esta avaliando meus trabalhos aqui no github, verá que este é o único curso que de fato não realizaria novamente, tanto é que sair do mesmo com 5 meses. Mas você deve está pensando, como assim Edu? Só vejo avaliações boas para a trybe, como você não gostou?... Bem vou explicar apenas três pontos, claro que ainda tenho muitos, mas serei breve:
 
 - _Extremamente caro_
   - Mesmo sendo um ano de curso e com a proposta de "encaminhamento" para o mercado de trabalho, 36k para um curso livre e ainda mais, mau estruturado... sei... muita burrice a minha ter entrado :( . 
 - _"Especialistas..."_
-  - São assim os chamados professores lá no curso, posso dizer com toda certeza que os mesmos não são, pelo menos não ensinando. Desculpe pessoal mas os professores de lá são muito, muito ruims, não explicam direito e se enrolam durante o processo.  
+  - São assim os chamados professores lá no curso, posso dizer com toda certeza que os mesmos não são, pelo menos não ensinando. Desculpe pessoal mas os professores de lá são muitos, muitos ruims, não explicam direito e se enrolam durante o processo.  
 - On demand
-  - O foco do curso é fazer um grande overview das tecnologias web, tudo isso em um ano, todos os dias tem conteudo novo! Ok Edu qual o problema nisso? O problema que a quantidade de conteúdo x 365 dias não são proporcionais. Então imaginemos que você precise de mais dias para entender melhor o que é um Promise ou um Reducer ou mesmo um componente React? É meu amigo, você não têm esse tempo, posso dizer que, quem já estudava antes de entra no curso, conseguia acompanhar traquilamente, mas quem era um completo iniciante ficavam pulando de turma.
+  - O foco do curso é fazer um grande overview das tecnologias web, tudo isso em um ano, todos os dias tem conteudo novo! Ok... Edu qual o problema nisso? O problema que a quantidade de conteúdo x 365 dias não são proporcionais. Então imaginemos que você precise de mais dias para entender melhor o que é um Promise ou um Reducer ou mesmo um componente React? É meu amigo, você não têm esse tempo, posso dizer que, quem já estudava antes de entra no curso, conseguia acompanhar traquilamente, mas quem era um completo iniciante ficavam pulando de turma.
 
-Com tudo isso que menciono acima, organizei esse repositório baseado em tudo que fiz durante o curso, muitas coisas eu já havia estudado, porém não quero fique a impressão que foi a trybe que me ensinou, apenas quero deixar registrado minha passagem e experiências.  
+Com tudo isso que menciono acima, modesta parte a minha, organizei esse repositório baseado em tudo que fiz durante o curso, muitas coisas eu já havia estudado, porém não quero que fique a impressão que foi a trybe que me ensinou, apenas deixar registrado minha passagem e experiências.  
 #### Abaixo você vai encontrar:
 
 - Tabela com os exercícios realizados com o link do repositório referente;
@@ -68,7 +69,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 |     5-5     |        Meme generator        | [5-5](https://github.com/EduSouza-programmer/Trybe_Projeto_5-5_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_5-5_Edu_Souza/)_ |
 |     5-6     |       Arte com pixels        | [5-6](https://github.com/EduSouza-programmer/Trybe_Projeto_5-6_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_5-6_Edu_Souza/)_ |
 |     5-7     |       Lista de tarefas       | [5-7](https://github.com/EduSouza-programmer/Trybe_Projeto_5-7_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_5-7_Edu_Souza/)_ |
-|     6-6     |  Pagina inicial do facebook  |                                  [6-6]()                                  |                                  _[Go to page]()_                                  |
+|     6-6     |  Pagina inicial do facebook  | [6-6](https://github.com/EduSouza-programmer/Trybe_Projeto_6-6_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_6-6_Edu_Souza/)_ |
 |     7-4     | Javascript testes unitarios  |                                  [7-4]()                                  |                                  _[Go to page]()_                                  |
 |     8-5     |        Zoo functions         |                                  [8-5]()                                  |                                  _[Go to page]()_                                  |
 |     9-3     |     Carrinho de compras      |                                  [9-3]()                                  |                                  _[Go to page]()_                                  |
@@ -103,7 +104,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 
 ### Considerações finais
 
-Notoriamente meu nível de satisfação com o curso da Trybe não fora pleno, mas posso dizer que foi desafiante, principalmente para exercer a paciência. Não indico este curso absolutamente para ninguém, infelizmente esse empresa se valida da esperança, desejo de vencer e sonhos alheios para fazer dinheiro, principalmente no ano de 2020 (em plena pandemia) em que abriram várias turmas com pessoas infelizmente desempregadas, migrando de profissões e confiante que era a melhor escolha a se fazer, se esquecendo completamente de um contrato com valor absurdo 36.000,00 (trinta e seis mil reais).  
+Notoriamente meu nível de satisfação com o curso da Trybe não fora pleno, mas posso dizer que foi desafiante, principalmente para exercer a paciência :smile:. Não indico este curso absolutamente para ninguém, infelizmente esse empresa se valida da esperança, desejo de vencer e sonhos alheios para fazer dinheiro, principalmente no ano de 2020 (em plena pandemia) em que abriram várias turmas com pessoas infelizmente desempregadas, migrando de profissões e confiante que era a melhor escolha a se fazer, se esquecendo completamente de um contrato com valor absurdo 36.000,00 (trinta e seis mil reais).  
 
 #
 
