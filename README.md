@@ -70,7 +70,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 |     5-6     |       Arte com pixels        | [5-6](https://github.com/EduSouza-programmer/Trybe_Projeto_5-6_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_5-6_Edu_Souza/)_ |
 |     5-7     |       Lista de tarefas       | [5-7](https://github.com/EduSouza-programmer/Trybe_Projeto_5-7_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_5-7_Edu_Souza/)_ |
 |     6-6     |  Pagina inicial do facebook  | [6-6](https://github.com/EduSouza-programmer/Trybe_Projeto_6-6_Edu_Souza) | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_6-6_Edu_Souza/)_ |
-|     7-4     | Javascript testes unitarios  |                                  [7-4]()                                  |                                  _[Go to page]()_                                  |
+|     7-4     | Javascript testes unitarios  | [7-4](https://github.com/EduSouza-programmer/Trybe_Projeto_7-4_Edu_Souza) |                                         -                                          |
 |     8-5     |        Zoo functions         |                                  [8-5]()                                  |                                  _[Go to page]()_                                  |
 |     9-3     |     Carrinho de compras      |                                  [9-3]()                                  |                                  _[Go to page]()_                                  |
 |    9-3-2    |        Casa de cambio        |                                 [9-3-2]()                                 |                                  _[Go to page]()_                                  |
