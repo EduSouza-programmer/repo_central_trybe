@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
     <img alt="Imagem trybe" src="https://i.ibb.co/d4W2x4g/trybe.png" width="300px" />
-</h1>
+</p>
 
 <h3 align="center">
   Cursos realizados na Trybe - Edu Souza o/
