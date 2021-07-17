@@ -36,7 +36,7 @@
 
 ## :rocket: Sobre o curso
 
-### Meu aprendizando na trybe
+#### Meu aprendizando na trybe
 
 Com toda sinceridade do mundo, na qual é uma das coisas que prezo muito, não gostei do curso da trybe! 
 Você que está lendo isso ou esta avaliando meus trabalhos aqui no github, verá que este é o único curso que de fato não realizaria novamente, tanto é que sair do mesmo com 5 meses. Mas você deve está pensando, como assim Edu? Só vejo avaliações boas para a trybe, como você não gostou?... Bem vou explicar apenas três pontos, claro que ainda tenho muitos, mas serei breve:
