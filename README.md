@@ -107,7 +107,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 
 Notoriamente meu nível de satisfação com o curso da Trybe não fora pleno, mas posso dizer que foi desafiante, principalmente para exercer a paciência :smile:. Não indico este curso absolutamente para ninguém, infelizmente esse empresa se valida da esperança, desejo de vencer e sonhos alheios para fazer dinheiro, principalmente no ano de 2020 (em plena pandemia) em que abriram várias turmas com pessoas infelizmente desempregadas, migrando de profissões e confiante que era a melhor escolha a se fazer, se esquecendo completamente de um contrato com valor absurdo 36.000,00 (trinta e seis mil reais).  
 
-
+<br/>
 
 ## :unlock: Licença
 
