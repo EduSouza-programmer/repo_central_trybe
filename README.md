@@ -82,7 +82,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 |    15-4     |    React testing library     |  [15-4](https://github.com/EduSouza-programmer/Trybe_Projeto_15-4_Edu_Souza)  | _[Go to page](https://edusouza-programmer.github.io/Trybe_Projeto_15-4_Edu_Souza/)_  |
 
 
-#
+<br/>
 
 #### Tabela dos exercícios :clipboard:
 
@@ -101,7 +101,7 @@ _PS: Aqui constam todos os exercícios e projetos que foram realizados na Trybe 
 |     9-1     |       JavaScript - Assíncrono e Callbacks       |       _[9-1](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-1_Edu_Souza)_       |
 |     9-2     |              JavaScript - Promises              |       _[9-2](https://github.com/EduSouza-programmer/Trybe_Exercicio_9-2_Edu_Souza)_       |
 
-#
+<br/>
 
 ### Considerações finais
 
