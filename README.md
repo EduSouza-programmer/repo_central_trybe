@@ -56,6 +56,8 @@ Com tudo isso que menciono acima, modesta parte a minha, organizei esse reposit√
 
 _PS: Aqui constam todos os exerc√≠cios e projetos que foram realizados na Trybe ._ :running:
 
+<br/>
+
 ## :postbox: Entrega
 #### Tabela dos projetos :clipboard:
 
